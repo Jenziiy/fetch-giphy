@@ -1,0 +1,16 @@
+{
+  "name": "fetch-giphy",
+  "version": "1.0.0",
+  "description": "fetch giphy",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "giphy",
+    "fetch",
+    "api"
+  ],
+  "author": "Jeanine",
+  "license": "ISC"
+}
